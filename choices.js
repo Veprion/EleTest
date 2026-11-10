@@ -16,7 +16,7 @@ let resultz = ["The people of the Air live with their heads in the clouds and pl
                "The people of the Electricity always have something in their heads. These are impulsive and planning people at the same time. These people are rare and have an absurd potential. They are charismatic, though not always positively and are able to bring people together quickly if necessary.",
                "The people of the Shadow prefer not to show off but do not hold back when there is something to be done. They simply prefer to do it secretly. The people of the Shadow are also silent if not asked but, once they feel comfortable, they have a lot to say. The people of the Shadow are often the creators of many useful things that nobody pays attention to.",
                "The people of the Rock have a strong balance. They are people who are strict with themselves and often intransigent. They do not follow what is said to them and are irremovable on many issues. The people of the Rock are well known for their strength of mind and their patience.",
-               "The people of the Light are common. The most commonplace people you know are people of the Light. They are not able to see behind one's behaviorr and expect everything to go as they believe it will. They change their minds based on what happens and always try to convince the others of their new beliefs."];
+               "The people of the Light are common. The most commonplace people you know are people of the Light. They are not able to see behind one's behavior and expect everything to go as they believe it will. They change their minds based on what happens and always try to convince the others of their new beliefs."];
 
 const choices=(num) => {
     c++;
